@@ -1,0 +1,240 @@
+Trivial: Warning: Unknown option 'fight_length' with value '360', ignoring
+SimulationCraft 1205-01 for World of Warcraft 12.0.5.67602 Live (hotfix 2026-05-16/67602)
+
+Simulating... ( iterations=50000, threads=16, target_error=0.000, max_time=300, vary_combat_length=0.20, optimal_raid=0, fight_style=DungeonSlice )
+
+Generating Baseline: 1/1 [....................] 507/50000 88.504 34secGenerating Baseline: 1/1 [....................] 1019/50000 95.723 31secGenerating Baseline: 1/1 [>...................] 1524/50000 97.913 30secGenerating Baseline: 1/1 [>...................] 2033/50000 98.226 30secGenerating Baseline: 1/1 [>...................] 2537/50000 98.944 29secGenerating Baseline: 1/1 [>...................] 3046/50000 99.077 29secGenerating Baseline: 1/1 [>...................] 3550/50000 99.125 29secGenerating Baseline: 1/1 [=>..................] 4058/50000 99.227 28secGenerating Baseline: 1/1 [=>..................] 4566/50000 99.498 28secGenerating Baseline: 1/1 [=>..................] 5072/50000 99.586 28secGenerating Baseline: 1/1 [=>..................] 5576/50000 99.606 27secGenerating Baseline: 1/1 [=>..................] 6085/50000 99.532 27secGenerating Baseline: 1/1 [==>.................] 6590/50000 99.131 27secGenerating Baseline: 1/1 [==>.................] 7101/50000 99.253 27secGenerating Baseline: 1/1 [==>.................] 7608/50000 99.271 26secGenerating Baseline: 1/1 [==>.................] 8116/50000 99.313 26secGenerating Baseline: 1/1 [==>.................] 8619/50000 99.006 26secGenerating Baseline: 1/1 [===>................] 9120/50000 98.999 25secGenerating Baseline: 1/1 [===>................] 9624/50000 98.627 25secGenerating Baseline: 1/1 [===>................] 10124/50000 98.564 25secGenerating Baseline: 1/1 [===>................] 10629/50000 98.487 24secGenerating Baseline: 1/1 [===>................] 11135/50000 98.335 24secGenerating Baseline: 1/1 [====>...............] 11643/50000 98.173 24secGenerating Baseline: 1/1 [====>...............] 12148/50000 98.076 24secGenerating Baseline: 1/1 [====>...............] 12656/50000 97.911 23secGenerating Baseline: 1/1 [====>...............] 13156/50000 97.901 23secGenerating Baseline: 1/1 [====>...............] 13666/50000 97.935 23secGenerating Baseline: 1/1 [=====>..............] 14172/50000 97.824 22secGenerating Baseline: 1/1 [=====>..............] 14678/50000 97.644 22secGenerating Baseline: 1/1 [=====>..............] 15180/50000 97.275 22secGenerating Baseline: 1/1 [=====>..............] 15680/50000 97.125 22secGenerating Baseline: 1/1 [=====>..............] 16181/50000 96.966 21secGenerating Baseline: 1/1 [======>.............] 16691/50000 96.909 21secGenerating Baseline: 1/1 [======>.............] 17201/50000 96.842 21secGenerating Baseline: 1/1 [======>.............] 17708/50000 96.570 20secGenerating Baseline: 1/1 [======>.............] 18219/50000 96.507 20secGenerating Baseline: 1/1 [======>.............] 18720/50000 96.432 20secGenerating Baseline: 1/1 [=======>............] 19229/50000 96.341 19secGenerating Baseline: 1/1 [=======>............] 19733/50000 96.381 19secGenerating Baseline: 1/1 [=======>............] 20239/50000 96.373 19secGenerating Baseline: 1/1 [=======>............] 20749/50000 96.378 18secGenerating Baseline: 1/1 [=======>............] 21249/50000 96.363 18secGenerating Baseline: 1/1 [========>...........] 21757/50000 96.328 18secGenerating Baseline: 1/1 [========>...........] 22257/50000 96.354 17secGenerating Baseline: 1/1 [========>...........] 22770/50000 96.398 17secGenerating Baseline: 1/1 [========>...........] 23275/50000 96.330 17secGenerating Baseline: 1/1 [=========>..........] 23787/50000 96.135 17secGenerating Baseline: 1/1 [=========>..........] 24293/50000 96.133 16secGenerating Baseline: 1/1 [=========>..........] 24794/50000 96.118 16secGenerating Baseline: 1/1 [=========>..........] 25296/50000 96.146 16secGenerating Baseline: 1/1 [=========>..........] 25799/50000 96.177 15secGenerating Baseline: 1/1 [==========>.........] 26301/50000 96.128 15secGenerating Baseline: 1/1 [==========>.........] 26804/50000 96.041 15secGenerating Baseline: 1/1 [==========>.........] 27317/50000 96.053 14secGenerating Baseline: 1/1 [==========>.........] 27832/50000 96.073 14secGenerating Baseline: 1/1 [==========>.........] 28339/50000 96.095 14secGenerating Baseline: 1/1 [===========>........] 28852/50000 96.069 13secGenerating Baseline: 1/1 [===========>........] 29354/50000 96.074 13secGenerating Baseline: 1/1 [===========>........] 29862/50000 96.074 13secGenerating Baseline: 1/1 [===========>........] 30371/50000 96.101 12secGenerating Baseline: 1/1 [===========>........] 30885/50000 96.152 12secGenerating Baseline: 1/1 [============>.......] 31389/50000 96.189 12secGenerating Baseline: 1/1 [============>.......] 31896/50000 96.198 11secGenerating Baseline: 1/1 [============>.......] 32397/50000 96.229 11secGenerating Baseline: 1/1 [============>.......] 32898/50000 96.239 11secGenerating Baseline: 1/1 [============>.......] 33405/50000 96.271 10secGenerating Baseline: 1/1 [=============>......] 33917/50000 96.305 10secGenerating Baseline: 1/1 [=============>......] 34419/50000 96.230 10secGenerating Baseline: 1/1 [=============>......] 34929/50000 96.156 9sec Generating Baseline: 1/1 [=============>......] 35436/50000 96.129 9sec Generating Baseline: 1/1 [=============>......] 35941/50000 95.517 9sec Generating Baseline: 1/1 [==============>.....] 36442/50000 95.394 8sec Generating Baseline: 1/1 [==============>.....] 36945/50000 95.412 8sec Generating Baseline: 1/1 [==============>.....] 37445/50000 95.406 8sec Generating Baseline: 1/1 [==============>.....] 37956/50000 95.347 7sec Generating Baseline: 1/1 [==============>.....] 38469/50000 95.079 7sec Generating Baseline: 1/1 [===============>....] 38974/50000 94.959 7sec Generating Baseline: 1/1 [===============>....] 39476/50000 94.930 6sec Generating Baseline: 1/1 [===============>....] 39980/50000 94.891 6sec Generating Baseline: 1/1 [===============>....] 40492/50000 94.860 6sec Generating Baseline: 1/1 [===============>....] 40994/50000 94.852 5sec Generating Baseline: 1/1 [================>...] 41502/50000 94.745 5sec Generating Baseline: 1/1 [================>...] 42002/50000 94.722 5sec Generating Baseline: 1/1 [================>...] 42502/50000 94.731 4sec Generating Baseline: 1/1 [================>...] 43007/50000 94.507 4sec Generating Baseline: 1/1 [================>...] 43518/50000 94.463 4sec Generating Baseline: 1/1 [=================>..] 44029/50000 94.486 3sec Generating Baseline: 1/1 [=================>..] 44542/50000 94.503 3sec Generating Baseline: 1/1 [=================>..] 45042/50000 94.527 3sec Generating Baseline: 1/1 [=================>..] 45542/50000 94.534 2sec Generating Baseline: 1/1 [=================>..] 46045/50000 94.555 2sec Generating Baseline: 1/1 [==================>.] 46546/50000 94.563 2sec Generating Baseline: 1/1 [==================>.] 47052/50000 94.524 1sec Generating Baseline: 1/1 [==================>.] 47562/50000 94.423 1sec Generating Baseline: 1/1 [==================>.] 48062/50000 94.392 1sec Generating Baseline: 1/1 [==================>.] 48566/50000 94.357      Generating Baseline: 1/1 [===================>] 49082/50000 94.307      Generating Baseline: 1/1 [===================>] 49592/50000 94.249      Generating Baseline: 1/1 [===================>] 50000/50000 94.232 33.162
+Merging data from thread-13 ...
+Merging data from thread-12 ...
+Merging data from thread-15 ...
+Merging data from thread-4 ...
+Merging data from thread-8 ...
+Merging data from thread-2 ...
+Merging data from thread-11 ...
+Merging data from thread-1 ...
+Merging data from thread-14 ...
+Merging data from thread-10 ...
+Merging data from thread-3 ...
+Merging data from thread-7 ...
+Merging data from thread-9 ...
+Merging data from thread-6 ...
+Merging data from thread-5 ...
+Analyzing actor data ...
+
+Generating reports...
+
+
+Raid Events:
+  raid_event=/adds,name=Boss,count=1,cooldown=500,duration=135,type=add_boss,duration_stddev=1
+  raid_event+=/adds,name=SmallAdd,count=5,count_range=1,first=140,cooldown=45,duration=18,duration_stddev=2
+  raid_event+=/adds,name=BigAdd,count=2,count_range=1,first=160,cooldown=50,duration=30,duration_stddev=2
+
+
+DPS Ranking:
+ 132537 100.0%  Raid
+ 132537  100.0%  Listur
+
+HPS Ranking:
+      0 100.0%%  Raid
+
+Player: Listur human warrior fury 90
+  DPS=132536.55343275348 DPS-Error=77.39847370868937/0.06% DPS-Range=36464.27050264202/27.51%
+  DPR=7669.980220791277 RPS-Out=17.29935830351534 RPS-In=17.50116298547774 Resource=rage Waiting=13.874388886368239 ApM=57.29285300920764
+  Talents: CgEAjLzRlq54bI5v+r8Sr9Xw4DAAAAAAgGDjhZ2WmZmZmZmxMjZMjZWmZGjZmtxMzAAAxYZZgFwEMDTgZYDwMYMAAYmxwMzMDDG
+  Core Stats:    strength=2403|2324(1990)  agility=428|428(428)  stamina=25614|25614(23286)  intellect=422|422(422)  spirit=0|0(0)  health=512280|512280  mana=0|0
+  Generic Stats: mastery=42.97%|37.86%(876)  versatility=0.69%|0.69%(37)  leech=3.00%|3.00%(0)  runspeed=7.28%|7.28%(0)
+  Spell Stats:   power=422|422(0)  hit=15.00%|15.00%(0)  crit=19.17%|19.17%(560)  haste=29.03%|29.03%(1166)  speed=29.03%|29.03%  manareg=0|0(0)
+  Attack Stats:  power=2475|2394(0)  hit=7.50%|7.50%(0)  crit=19.17%|19.17%(560)  expertise=7.50%/7.50%|7.50%/7.50%(0)  haste=29.03%|29.03%(1166)  speed=29.03%|29.03%
+  Defense Stats: armor=2242|2242(1826) miss=3.00%|3.00%  dodge=3.00%|3.00%(0)  parry=14.30%|13.97%(0)  block=10.00%|10.00%(0) crit=0.00%|0.00%  versatility=0.34%|0.34%(37)
+  Priorities (actions.precombat):
+    snapshot_stats/berserker_stance,toggle=on/variable,name=trinket_1_exclude,value=trinket.1.is.algethar_puzzle_box
+    variable,name=trinket_2_exclude,value=trinket.2.is.algethar_puzzle_box/variable,name=trinket_1_buffs,value=trinket.1.has_use_buff
+    variable,name=trinket_2_buffs,value=trinket.2.has_use_buff
+    variable,name=trinket_1_duration,op=setif,value=0,value_else=trinket.1.proc.any_dps.duration,condition=0
+    variable,name=trinket_2_duration,op=setif,value=0,value_else=trinket.2.proc.any_dps.duration,condition=0
+    variable,name=trinket_1_high_value,op=setif,value=2,value_else=1,condition=trinket.1.is.treacherous_transmitter
+    variable,name=trinket_2_high_value,op=setif,value=2,value_else=1,condition=trinket.2.is.treacherous_transmitter
+    variable,name=trinket_1_sync,op=setif,value=1,value_else=0.5,condition=variable.trinket_1_buffs&talent.recklessness&trinket.1.cooldown.duration%%cooldown.recklessness.duration=0
+    variable,name=trinket_2_sync,op=setif,value=1,value_else=0.5,condition=variable.trinket_2_buffs&talent.recklessness&trinket.2.cooldown.duration%%cooldown.recklessness.duration=0
+    variable,name=trinket_priority,op=setif,value=2,value_else=1,condition=!variable.trinket_1_buffs&variable.trinket_2_buffs&(trinket.2.has_cooldown|!trinket.1.has_cooldown)|variable.trinket_2_buffs&((trinket.2.cooldown.duration%variable.trinket_2_duration)*(1.5+trinket.2.has_buff.strength)*(variable.trinket_2_sync)*(variable.trinket_2_high_value)*(1+((trinket.2.ilvl-trinket.1.ilvl)%100)))>((trinket.1.cooldown.duration%variable.trinket_1_duration)*(1.5+trinket.1.has_buff.strength)*(variable.trinket_1_sync)*(variable.trinket_1_high_value)*(1+((trinket.1.ilvl-trinket.2.ilvl)%100)))
+    variable,name=damage_trinket_priority,op=setif,value=2,value_else=1,condition=!variable.trinket_1_buffs&!variable.trinket_2_buffs&trinket.2.ilvl>=trinket.1.ilvl
+    variable,name=trinket_1_manual,value=trinket.1.is.algethar_puzzle_box/variable,name=trinket_1_manual,value=trinket.2.is.algethar_puzzle_box
+  Priorities (actions.default):
+    auto_attack/charge,if=time<=0.5|movement.distance>5/heroic_leap,if=(raid_event.movement.distance>25&raid_event.movement.in>45)
+    potion,if=target.time_to_die>300|buff.recklessness.up|target.time_to_die<25/pummel,if=target.debuff.casting.react
+    call_action_list,name=trinkets/call_action_list,name=variables/lights_judgment,if=variable.on_gcd_racials
+    bag_of_tricks,if=variable.on_gcd_racials/berserking,if=buff.recklessness.up/blood_fury/fireblood/ancestral_call
+    invoke_external_buff,name=power_infusion,if=buff.recklessness.remains>15&fight_remains>=135|variable.execute_phase&buff.recklessness.up|fight_remains<=25
+    run_action_list,name=slayer,if=talent.slayers_dominance&active_enemies=1
+    run_action_list,name=slayer_aoe,if=talent.slayers_dominance&active_enemies>1
+    run_action_list,name=thane,if=talent.lightning_strikes&active_enemies=1
+    run_action_list,name=thane_aoe,if=talent.lightning_strikes&active_enemies>1
+  Priorities (actions.slayer):
+    recklessness/avatar/rampage,if=buff.enrage.remains<gcd|rage>=100
+    bladestorm,if=(buff.enrage.up&talent.deft_experience|buff.enrage.remains>1)&(buff.recklessness.up|cooldown.recklessness.remains>30)
+    odyns_fury/execute/bloodbath/rampage,if=buff.recklessness.up/crushing_blow/bloodthirst/rampage/wrecking_throw/rend,if=dot.rend.duration<6/raging_blow
+    whirlwind/storm_bolt,if=buff.bladestorm.up
+  Priorities (actions.slayer_aoe):
+    whirlwind,if=talent.improved_whirlwind&buff.whirlwind.stack=0/recklessness/avatar/rampage,if=buff.enrage.remains<gcd|rage>=110
+    bladestorm,if=(buff.enrage.up&talent.deft_experience|buff.enrage.remains>1)&(buff.recklessness.up|cooldown.recklessness.remains>30)
+    odyns_fury/execute,if=buff.sudden_death.up/rampage,if=buff.recklessness.up/bloodbath/whirlwind,if=talent.improved_whirlwind&buff.recklessness.up
+    crushing_blow/execute/rampage/rend,if=dot.rend_dot.duration<6&!talent.improved_whirlwind/bloodthirst/whirlwind,if=talent.improved_whirlwind
+    raging_blow/storm_bolt,if=buff.bladestorm.up
+  Actions:
+    auto_attack_mh                   Count= 157.0|  2.274sec  DPE=  7679| 2.52%  DPET=  3911  DPR=  0  pDPS= 3362  Miss= 0.18%  Hit=  6309|  3677|  9311  Crit= 12602|  7355| 18622|21.94%
+    auto_attack_oh                   Count= 157.0|  2.274sec  DPE=  3836| 1.26%  DPET=  1973  DPR=  0  pDPS= 1680  Miss= 0.07%  Hit=  3150|  1828|  4658  Crit=  6292|  3657|  9280|21.93%
+    bladestorm                       Count=   7.4| 51.184sec  DPE=949297| 0.00%  DPET=982176  DPR=  0  pDPS=    0  TickCount=    54  UpTime=  4.82%
+    bladestorm_mh                    Count=   0.0|  0.000sec  DPE=     0| 7.86%  DPET=     0  DPR=  0  pDPS=10436  Miss= 0.00%  Hit= 16495|  8702| 27124  Crit= 33152| 17403| 54464|39.01%
+    bladestorm_oh                    Count=   0.0|  0.000sec  DPE=     0| 3.93%  DPET=     0  DPR=  0  pDPS= 5214  Miss= 0.00%  Hit=  8242|  4371| 13519  Crit= 16565|  8742| 27147|39.01%
+    bloodbath                        Count=  21.5| 14.632sec  DPE=120480| 5.41%  DPET=134426  DPR=  0  pDPS= 7241  Miss= 0.00%  Hit= 33108| 10691| 72157  Crit= 67846| 21916|147922|52.03%
+    bloodbath_bladestorm_unhinged    Count=  20.6| 14.220sec  DPE= 59371| 2.56%  DPET=     0  DPR=  0  pDPS= 3423  Miss= 0.00%  Hit= 38413| 24221| 70635  Crit= 78871| 50838|144803|51.80%
+    bloodbath_dot                    Count=  71.1|  7.774sec  DPE=  3745| 0.56%  DPET=     0  DPR=  0  pDPS=  746  TickCount=    79  MissTick= 0.00%  Tick=  2478|  1370|  3679  CritTick=  4994|  2782|  7441|35.14%  UpTime= 65.99%
+    bloodthirst                      Count=  52.9|  6.304sec  DPE= 66367| 7.35%  DPET= 68595  DPR=  0  pDPS= 9683  Miss= 0.00%  Hit= 24216|  8099| 53744  Crit= 49717| 16603|112637|31.89%
+    bloodthirst_bladestorm_unhinged  Count=   4.5| 10.321sec  DPE= 34367| 0.32%  DPET=     0  DPR=  0  pDPS=  416  Miss= 0.00%  Hit= 25799| 12834| 48402  Crit= 52944| 26414|102013|31.57%
+    bloodthirst_heal                 Count=  99.4|  3.570sec  DPE=     0| 0.00%  DPET=     0  DPR=  0  pDPS=    0
+    charge_impact                    Count=   1.0|  0.000sec  DPE=   548| 0.00%  DPET=     0  DPR=  0  pDPS=    2  Miss= 0.00%  Hit=   459|   459|   511  Crit=   918|   918|  1022|19.46%
+    crushing_blow                    Count=   3.5| 17.109sec  DPE= 45895| 0.00%  DPET= 50634  DPR=  0  pDPS=    0
+    crushing_blow_mh                 Count=   0.0|  0.000sec  DPE=     0| 0.22%  DPET=     0  DPR=  0  pDPS=  301  Miss= 0.00%  Hit= 19796| 14823| 24453  Crit= 45909| 34434| 56804|41.53%
+    crushing_blow_oh                 Count=   0.0|  0.000sec  DPE=     0| 0.11%  DPET=     0  DPR=  0  pDPS=  150  Miss= 0.00%  Hit=  9858|  7374| 12187  Crit= 22862| 17129| 28310|41.50%
+    deep_wounds                      Count= 120.9|  6.633sec  DPE= 12169| 3.08%  DPET=     0  DPR=  0  pDPS= 4078  TickCount=   434  MissTick= 0.00%  Tick=  2602|   932|  7770  CritTick=  5185|  1864| 15540|30.46%  UpTime=120.61%
+    execute                          Count=  51.8|  6.633sec  DPE=164281| 0.00%  DPET=174550  DPR=  0  pDPS=    0
+    execute_mainhand                 Count=   0.0|  0.000sec  DPE=     0| 6.29%  DPET=     0  DPR=  0  pDPS= 8313  Miss= 0.00%  Hit= 17578|  7673| 34210  Crit= 38611| 16112| 75228|34.49%
+    execute_offhand                  Count=   0.0|  0.000sec  DPE=     0| 3.13%  DPET=     0  DPR=  0  pDPS= 4136  Miss= 0.00%  Hit=  8749|  3817| 16858  Crit= 19214|  8015| 37496|34.47%
+    gushing_wound                    Count=  73.0|  6.769sec  DPE=  9073| 1.39%  DPET=     0  DPR=  0  pDPS= 1837  TickCount=   156  MissTick= 0.00%  Tick=  3227|     1|  5023  CritTick=  6540|     3| 10046|30.64%  UpTime= 84.64%
+    odyns_fury                       Count=  12.9| 28.196sec  DPE=254167| 0.00%  DPET=272924  DPR=  0  pDPS=    0
+    odyns_fury_mh                    Count=  25.9| 28.196sec  DPE=109583| 5.93%  DPET=     0  DPR=  0  pDPS= 7851  Miss= 0.00%  Hit= 10345|  7935| 15651  Crit= 21007| 15869| 31302|32.48%  TickCount=   115  MissTick= 0.00%  Tick= 12530|  6107| 19102  CritTick= 25402| 16140| 38204|32.30%  UpTime= 32.02%
+    odyns_fury_oh                    Count=  25.9| 28.196sec  DPE= 17500| 0.95%  DPET=     0  DPR=  0  pDPS= 1254  Miss= 0.00%  Hit=  5149|  3947|  7801  Crit= 10454|  7894| 15602|32.49%
+    potion                           Count=   1.8|315.152sec  DPE=     0| 0.00%  DPET=     0  DPR=  0  pDPS=    0
+    raging_blow                      Count=  12.4| 14.526sec  DPE= 26010| 0.00%  DPET= 26661  DPR=  0  pDPS=    0
+    raging_blow_mh                   Count=   0.0|  0.000sec  DPE=     0| 0.45%  DPET=     0  DPR=  0  pDPS=  608  Miss= 0.00%  Hit= 13994|  7325| 19149  Crit= 29408| 15401| 40260|21.90%
+    raging_blow_oh                   Count=   0.0|  0.000sec  DPE=     0| 0.22%  DPET=     0  DPR=  0  pDPS=  302  Miss= 0.00%  Hit=  6964|  3644|  9541  Crit= 14634|  7661| 20060|21.87%
+    rampage                          Count=  99.6|  3.592sec  DPE=100361| 0.00%  DPET=107435  DPR=1605  pDPS=    0
+    rampage1                         Count=   0.0|  0.000sec  DPE=     0| 3.64%  DPET=     0  DPR=  0  pDPS= 4836  Miss= 0.00%  Hit=  5062|  3026| 10497  Crit= 10335|  6052| 20634|34.55%
+    rampage2                         Count=   0.0|  0.000sec  DPE=     0| 4.17%  DPET=     0  DPR=  0  pDPS= 5539  Miss= 0.00%  Hit=  6064|  3633| 12547  Crit= 12399|  7267| 24662|34.10%
+    rampage3                         Count=   0.0|  0.000sec  DPE=     0| 4.46%  DPET=     0  DPR=  0  pDPS= 5924  Miss= 0.00%  Hit=  6890|  4132| 13997  Crit= 14112|  8263| 27993|33.60%
+    rampage4                         Count=   0.0|  0.000sec  DPE=     0| 5.01%  DPET=     0  DPR=  0  pDPS= 6659  Miss= 0.00%  Hit=  7812|  4672| 15796  Crit= 16006|  9343| 31591|33.68%
+    reap_the_storm_execute           Count=  31.1| 11.048sec  DPE=128976| 8.40%  DPET=     0  DPR=  0  pDPS=11094  Miss= 0.00%  Hit= 36084| 19389| 54680  Crit= 72990| 38778|109361|30.42%
+    reap_the_storm_rampage           Count=   6.5| 29.025sec  DPE=267199| 3.65%  DPET=     0  DPR=  0  pDPS= 4818  Miss= 0.00%  Hit= 36661| 28383| 54680  Crit= 73910| 56766|109361|33.73%
+    recklessness                     Count=   7.8| 48.878sec  DPE=     0| 0.00%  DPET=     0  DPR=  0  pDPS=    0
+    rend                             Count=  11.0| 19.227sec  DPE= 14714| 0.34%  DPET= 15147  DPR=  0  pDPS=  454  Miss= 0.00%  Hit= 12027|  6907| 16808  Crit= 24053| 13814| 33617|21.81%
+    rend_dot                         Count= 193.9|  6.187sec  DPE=  7850| 3.19%  DPET=     0  DPR=  0  pDPS= 4205  TickCount=   382  MissTick= 0.00%  Tick=  3036|     1|  4643  CritTick=  6112|     3|  9252|30.70%  UpTime=199.43%
+    slayers_strike                   Count=  49.0|  7.213sec  DPE= 51349| 5.26%  DPET=     0  DPR=  0  pDPS= 7012  Miss= 0.00%  Hit= 39270| 22391| 59534  Crit= 80020| 44781|119067|29.64%
+    storm_bolt                       Count=   6.9| 54.024sec  DPE=  1903| 0.03%  DPET=  1975  DPR=  0  pDPS=   37  Miss= 0.00%  Hit=  1380|   801|  1976  Crit=  2788|  1617|  3953|38.52%
+    twilight_barrage                 Count=  19.3| 17.624sec  DPE= 13139| 0.53%  DPET=     0  DPR=  0  pDPS=  706  Miss= 0.00%  Hit=  3863|  2008|  7343  Crit=  7722|  4016| 14685|21.97%
+    whirlwind                        Count=  43.6|  6.334sec  DPE= 80664| 0.00%  DPET= 84366  DPR=  0  pDPS=    0
+    whirlwind_mh_first               Count=  43.6|  6.334sec  DPE= 18046| 1.65%  DPET=     0  DPR=  0  pDPS= 2161  Miss= 0.00%  Hit=  3279|  1477|  5891  Crit=  6982|  3028| 12076|27.54%
+    whirlwind_mh_others              Count=  87.0|  3.133sec  DPE= 17926| 3.27%  DPET=     0  DPR=  0  pDPS= 4289  Miss= 0.00%  Hit=  3266|  1477|  5891  Crit=  6947|  3028| 12076|27.55%
+    whirlwind_oh_first               Count=  43.6|  6.334sec  DPE=  8984| 0.82%  DPET=     0  DPR=  0  pDPS= 1076  Miss= 0.00%  Hit=  1632|   735|  2936  Crit=  3475|  1506|  6019|27.57%
+    whirlwind_oh_others              Count=  87.0|  3.133sec  DPE=  8921| 1.63%  DPET=     0  DPR=  0  pDPS= 2134  Miss= 0.00%  Hit=  1625|   735|  2936  Crit=  3457|  1506|  6019|27.54%
+    wrecking_throw                   Count=   4.0| 65.773sec  DPE= 49800| 0.42%  DPET= 51938  DPR=  0  pDPS=  562  Miss= 0.00%  Hit= 49800| 27403| 67470
+
+  Constant Buffs:
+    berserker_stance/flask_of_the_magisters/voidtouched/well_fed
+  Dynamic Buffs:
+    arcanoweave_insight  : start=  6.7 refresh=  5.4 interval= 51.9 trigger= 27.3 duration= 26.4 uptime= 49.52%
+    berserk              : start=  4.7 refresh= 97.1 interval= 66.6 trigger=  3.5 duration= 71.3 uptime= 93.66%
+    bladestorm           : start=  7.4 refresh=  0.0 interval= 51.2 trigger= 51.2 duration=  2.4 uptime=  4.89%
+    bloodborne           : start=  6.3 refresh= 93.1 interval= 63.3 trigger=  3.6 duration= 51.1 uptime= 89.34%  benefit= 97.09%
+    enrage               : start=  6.8 refresh=150.5 interval= 58.0 trigger=  2.3 duration= 47.7 uptime= 90.31%  benefit= 99.43%
+    executioner          : start=  6.2 refresh= 42.8 interval= 39.3 trigger=  7.2 duration= 52.7 uptime= 90.87%  benefit= 96.46%
+    executioners_wrath   : start= 23.5 refresh= 28.3 interval= 14.8 trigger=  6.6 duration=  7.4 uptime= 48.58%  benefit= 55.19%
+    fierce_followthrough : start= 40.1 refresh=  0.0 interval=  8.7 trigger=  8.7 duration=  3.3 uptime= 37.30%  benefit= 38.66%
+    frenzy               : start=  8.5 refresh= 85.5 interval= 24.2 trigger=  3.8 duration= 38.4 uptime= 91.09%
+    genius_insight       : start=  9.3 refresh=  8.9 interval= 38.0 trigger= 18.7 duration= 20.9 uptime= 54.44%
+    hasty_hunt           : start=  4.5 refresh=  6.4 interval= 36.0 trigger= 14.1 duration= 23.6 uptime= 29.37%
+    imminent_demise      : start=  7.2 refresh= 24.3 interval= 50.8 trigger= 10.9 duration= 42.6 uptime= 85.12%  benefit= 91.29%
+    lights_potential     : start=  1.8 refresh=  0.0 interval=315.2 trigger=315.2 duration= 28.3 uptime= 14.04%
+    masterful_hunt       : start=  4.4 refresh=  6.4 interval= 36.0 trigger= 14.1 duration= 23.6 uptime= 29.20%
+    recklessness         : start=  7.8 refresh=  0.0 interval= 48.9 trigger= 48.9 duration= 17.6 uptime= 38.16%  benefit= 34.87%
+    scent_of_blood       : start= 40.0 refresh= 59.6 interval=  9.0 trigger=  3.6 duration=  6.2 uptime= 68.88%  benefit= 75.13%
+    solarflare_prism     : start= 11.6 refresh=  6.7 interval= 30.2 trigger= 18.7 duration= 12.6 uptime= 40.46%
+    sudden_death         : start= 28.8 refresh=  3.3 interval= 12.1 trigger= 10.8 duration=  1.9 uptime= 13.63%  benefit= 60.88%
+    versatile_hunt       : start=  1.1 refresh=  1.6 interval= 36.2 trigger= 14.1 duration= 23.7 uptime=  7.21%
+    violent_euphoria     : start=  7.4 refresh=  0.0 interval= 51.1 trigger= 51.1 duration=  7.9 uptime= 16.19%
+    whirlwind            : start= 19.2 refresh= 24.4 interval= 14.7 trigger=  6.3 duration=  9.4 uptime= 49.78%
+    wild_strikes         : start= 16.6 refresh=  8.5 interval= 21.8 trigger= 14.3 duration= 14.6 uptime= 67.56%
+    withered_saptors_paw : start=  8.9 refresh=  3.2 interval= 38.0 trigger= 27.2 duration= 11.6 uptime= 28.79%
+  Up-Times:
+      5.34% : Rage Cap                      
+  Gains:
+       186.1 : bladestorm_mh                   (rage)           (overflow=50.94%)
+       257.5 : bloodbath                       (rage)         
+       108.1 : bloodbath_bladestorm_unhinged   (rage)           (overflow=56.24%)
+       423.1 : bloodthirst                     (rage)         
+        27.8 : bloodthirst_bladestorm_unhinged (rage)           (overflow=21.83%)
+        20.0 : charge_impact                   (rage)         
+       225.0 : cold_steel_hot_blood            (rage)           (overflow=13.50%)
+        62.8 : crushing_blow                   (rage)         
+      1488.4 : execute                         (rage)         
+       124.5 : frothing_berserker              (rage)         
+      1359.7 : melee_main_hand                 (rage)           (overflow=4.57%)
+       667.7 : melee_off_hand                  (rage)           (overflow=6.59%)
+       320.0 : odyns_fury                      (rage)         
+       149.2 : raging_blow                     (rage)         
+       359.6 : recklessness                    (rage)           (overflow=7.57%)
+       207.2 : war_machine_demise              (rage)           (overflow=10.15%)
+       313.6 : whirlwind                       (rage)           (overflow=3.61%)
+  Waiting: 13.87%
+
+
+ *** Targets *** 
+
+Target: Dungeon humanoid enemy unknown 93
+
+  Core Stats:    strength=0|0(0)  agility=0|0(0)  stamina=0|0(0)  intellect=0|0(0)  spirit=0|0(0)  health=0|0  mana=0|0
+  Generic Stats: mastery=0.00%|0.00%(0)  versatility=0.00%|0.00%(0)  leech=0.00%|0.00%(0)  runspeed=0.00%|7.00%(0)
+  Spell Stats:   power=0|0(0)  hit=0.00%|0.00%(0)  crit=0.00%|0.00%(0)  haste=inf%|0.00%(0)  speed=inf%|0.00%  manareg=0|0(0)
+  Attack Stats:  power=0|0(0)  hit=0.00%|0.00%(0)  crit=0.00%|5.00%(0)  expertise=0.00%|0.00%(0)  haste=inf%|0.00%(0)  speed=inf%|0.00%
+  Defense Stats: armor=0|1470(1470) miss=0.00%|3.00%  dodge=0.00%|3.00%(0)  parry=0.00%|3.00%(0)  block=0.00%|0.00%(0) crit=0.00%|0.00%  versatility=0.00%|0.00%(0)
+  Priorities (actions.precombat):
+    snapshot_stats
+  Priorities (actions.default):
+
+  Actions:
+
+  Dynamic Buffs:
+    BigAdd1-bleeding      : start=  4.6 refresh=  0.0 interval= 48.6 trigger=  0.0 duration= 26.6 uptime= 96.76%
+    BigAdd1-overwhelmed   : start=  4.5 refresh= 38.6 interval= 47.8 trigger=  4.3 duration= 22.0 uptime= 79.42%
+    BigAdd2-bleeding      : start=  3.4 refresh=  0.0 interval= 59.4 trigger=  0.0 duration= 27.1 uptime= 97.00%
+    BigAdd2-overwhelmed   : start=  3.4 refresh= 21.5 interval= 57.1 trigger=  6.4 duration= 22.2 uptime= 79.58%
+    BigAdd3-bleeding      : start=  1.6 refresh=  0.0 interval= 83.8 trigger=  0.0 duration= 27.1 uptime= 96.81%
+    BigAdd3-overwhelmed   : start=  1.6 refresh= 10.8 interval= 79.6 trigger=  5.7 duration= 23.0 uptime= 80.86%
+    Boss1-bleeding        : start=  1.0 refresh=  0.0 interval= 93.9 trigger=  0.0 duration=133.7 uptime= 99.06%
+    Boss1-overwhelmed     : start=  1.7 refresh= 46.6 interval= 62.6 trigger=  2.7 duration= 77.7 uptime= 97.35%
+    SmallAdd1-bleeding    : start=  5.4 refresh=  0.0 interval= 44.8 trigger=  0.0 duration= 16.6 uptime= 95.83%
+    SmallAdd1-overwhelmed : start=  5.3 refresh= 33.4 interval= 45.4 trigger=  5.3 duration= 13.2 uptime= 74.28%
+    SmallAdd2-bleeding    : start=  5.4 refresh=  0.0 interval= 44.8 trigger=  0.0 duration= 16.6 uptime= 95.84%
+    SmallAdd2-overwhelmed : start=  5.3 refresh= 31.6 interval= 45.4 trigger=  5.6 duration= 13.2 uptime= 74.29%
+    SmallAdd3-bleeding    : start=  5.4 refresh=  0.0 interval= 44.9 trigger=  0.0 duration= 16.4 uptime= 94.78%
+    SmallAdd3-overwhelmed : start=  5.3 refresh= 31.9 interval= 45.4 trigger=  5.6 duration= 13.3 uptime= 74.29%
+    SmallAdd4-bleeding    : start=  5.4 refresh=  0.0 interval= 44.9 trigger=  0.0 duration= 16.0 uptime= 92.67%
+    SmallAdd4-overwhelmed : start=  5.3 refresh= 32.5 interval= 45.4 trigger=  5.5 duration= 13.3 uptime= 74.29%
+    SmallAdd5-bleeding    : start=  4.1 refresh=  0.0 interval= 55.1 trigger=  0.0 duration= 16.1 uptime= 92.66%
+    SmallAdd5-overwhelmed : start=  3.9 refresh= 24.8 interval= 55.7 trigger=  6.2 duration= 13.3 uptime= 74.29%
+    SmallAdd6-bleeding    : start=  1.7 refresh=  0.0 interval= 83.8 trigger=  0.0 duration= 16.1 uptime= 92.47%
+    SmallAdd6-overwhelmed : start=  1.7 refresh= 10.7 interval= 84.4 trigger=  6.0 duration= 13.3 uptime= 73.68%
+  Waiting:  0.00%
+
+
+Baseline Performance:
+  Networking    = enabled
+  RNG Engine    = xoshiro256+
+  Iterations    = 50015 (4146, 3482, 3338, 3424, 2725, 2019, 3344, 3322, 3456, 3382, 3482, 3502, 2131, 1990, 3302, 2970)
+  TotalEvents   = 987579629
+  MaxEventQueue = 154
+  TargetHealth  = 0
+  SimSeconds    = 17999917.369
+  CpuSeconds    = 388.8125
+  WallSeconds   = 33.226114
+  InitSeconds   = 0.0293466
+  MergeSeconds  = 0.013186
+  AnalyzeSeconds= 0.0140594
+  SpeedUp       = 46309
+  EndTime       = 2026-05-17 21:14:31-0700
+
+
+Waiting:
+    13.87% : Listur
+
+text report took 0.0010608 seconds.
+html report took 0.0291645 seconds.
