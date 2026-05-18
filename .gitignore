@@ -58,6 +58,10 @@ simc_report.html
 simc_report.json
 simc_report.xml
 
+# LocalRaidSim test/output files
+profiles/
+results/
+
 /CMakeFiles/
 vs/int_gui/
 x64/
