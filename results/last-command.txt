@@ -1,1 +1,0 @@
-"X:\SimCraft\simc\simc.exe" "profiles/current.simc" iterations=50000 fight_style=DungeonSlice fight_length=360 html="results\latest-result.html"
